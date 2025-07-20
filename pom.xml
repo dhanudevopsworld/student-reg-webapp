@@ -25,11 +25,11 @@
     <distributionManagement>
 		<repository>
 			<id>nexus</id>
-			<url>http://13.235.8.146:8081/repository/dhanudevopsworld-release/</url>
+			<url>http://13.232.99.15:8081/repository/dhanudevopsworld-release/</url>
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
-			<url>http://13.235.8.146:8081/repository/dhanudevopsworld-snapshot/</url>
+			<url>http://13.232.99.15:8081/repository/dhanudevopsworld-snapshot/</url>
 		</snapshotRepository>
     </distributionManagement>
 
